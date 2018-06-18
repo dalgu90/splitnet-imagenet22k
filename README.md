@@ -1,0 +1,1 @@
+# splitnet-imagenet22k
